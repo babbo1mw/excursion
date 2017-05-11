@@ -24,3 +24,8 @@ h1  {
   font-size: 50px;
   font-weight: normal;
 }
+.footer {
+  text-align: right;
+  color: gray;
+
+}
